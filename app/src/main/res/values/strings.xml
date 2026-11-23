@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Controle de Estoque</string>
+
+    <!-- Resumo / Dashboard -->
+    <string name="resumo_titulo">Resumo do Estoque</string>
+    <string name="resumo_produtos">Produtos</string>
+    <string name="resumo_unidades">Unidades</string>
+    <string name="resumo_valor">Valor em Estoque</string>
+    <string name="resumo_estoque_baixo">Estoque Baixo</string>
+
+    <!-- Busca e Scanner -->
+    <string name="hint_busca">Buscar por nome, código ou categoria…</string>
+    <string name="btn_ler_codigo">Ler</string>
+    <string name="erro_leitura_codigo_barras">Não foi possível escanear o código. Por favor, digite manualmente.</string>
+
+    <!-- Lista de Produtos -->
+    <string name="formato_codigo_interno">Cód: %1$s</string>
+    <string name="formato_ean">EAN: %1$s</string>
+    <string name="formato_localizacao">Loc: %1$s</string>
+    <string name="formato_quantidade_unidade">%1$d %2$s</string>
+    <string name="aviso_repor_estoque">Repor estoque</string>
+    <string name="lista_vazia_titulo">Nenhum produto encontrado</string>
+    <string name="lista_vazia_subtitulo">Cadastre um novo item clicando no botão abaixo.</string>
+    <string name="novo_produto">Novo produto</string>
+
+    <!-- Formulário -->
+    <string name="titulo_novo_produto">Novo Produto</string>
+    <string name="titulo_editar_produto">Editar Produto</string>
+    <string name="label_nome">Nome do produto *</string>
+    <string name="label_codigo_interno">Código interno *</string>
+    <string name="label_codigo_barras">Código de barras (EAN)</string>
+    <string name="label_categoria">Categoria (ex: Bebidas, Alimentos)</string>
+    <string name="label_fornecedor">Fornecedor</string>
+    <string name="label_unidade">Unidade de medida</string>
+    <string name="label_localizacao">Localização (prateleira/corredor)</string>
+    <string name="label_quantidade">Quantidade inicial</string>
+    <string name="label_estoque_minimo">Estoque mínimo</string>
+    <string name="label_preco_custo">Preço de custo (R$)</string>
+    <string name="label_preco_venda">Preço de venda (R$)</string>
+    <string name="label_observacoes">Observações adicionais</string>
+
+    <string name="erro_campo_obrigatorio">Este campo é obrigatório</string>
+    <string name="produto_salvo_sucesso">Produto salvo com sucesso!</string>
+    <string name="produto_excluido_sucesso">Produto excluído com sucesso!</string>
+    <string name="produto_nao_encontrado">Produto não encontrado</string>
+
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="dialog_excluir_titulo">Confirmar Exclusão</string>
+    <string name="dialog_excluir_mensagem">Tem certeza que deseja excluir o produto \"%1$s\"? Esta ação não pode ser desfeita.</string>
+
+    <!-- Gráficos -->
+    <string name="btn_graficos">Gráficos</string>
+    <string name="cd_graficos">Visualizar gráficos de quantidade</string>
+    <string name="titulo_graficos">Gráficos de Estoque</string>
+    <string name="grafico_subtitulo">Distribuição visual das quantidades em estoque</string>
+    <string name="tab_produtos">Por Produto</string>
+    <string name="tab_categorias">Por Categoria</string>
+    <string name="card_maior_estoque">Maior Estoque</string>
+    <string name="card_menor_estoque">Menor Estoque</string>
+    <string name="legenda_normal">Estoque Normal</string>
+    <string name="legenda_baixo">Estoque Baixo / Crítico</string>
+    <string name="grafico_sem_dados">Cadastre produtos para visualizar os gráficos de estoque.</string>
+    <string name="ordenar_maior">Maior Qtd</string>
+    <string name="ordenar_menor">Menor Qtd</string>
+    <string name="ordenar_nome">Nome (A-Z)</string>
+
+    <!-- Acessibilidade -->
+    <string name="cd_adicionar_unidade">Adicionar 1 unidade</string>
+    <string name="cd_remover_unidade">Remover 1 unidade</string>
+    <string name="cd_escanear_codigo">Escanear código de barras</string>
+    <string name="cd_novo_produto">Cadastrar novo produto</string>
+</resources>
