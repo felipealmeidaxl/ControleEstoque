@@ -4,6 +4,16 @@ Aplicativo Android nativo completo para **Controle de Estoque** com banco de dad
 
 ---
 
+## 📲 Download do Aplicativo (APK)
+
+Você pode baixar e instalar o aplicativo diretamente no seu celular Android:
+
+👉 **[📥 Baixar ControleEstoque.apk (Download Direto)](https://github.com/felipealmeidaxl/ControleEstoque/raw/main/apk/ControleEstoque.apk)**
+
+*(O arquivo também está disponível na pasta [`apk/ControleEstoque.apk`](apk/ControleEstoque.apk) deste repositório).*
+
+---
+
 ## ✨ Funcionalidades
 
 ### 1. 📊 Painel de Controle e Resumo
